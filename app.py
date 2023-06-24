@@ -9,4 +9,4 @@ def index():
 
 app.get("/test")
 def index():
-    return "TEST ENDOINT"
+    return "TEST ENDOINT`"
